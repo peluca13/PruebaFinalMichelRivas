@@ -1,0 +1,8 @@
+Michel Rivas Latapie
+CI 42178510
+
+Rama Develop: rama para desarrollo.
+Rama Master: rama para generar tags de versionados para produccion. 
+Rama Testing: Rama para testing de versiones. 
+Rama Temporal: ramas para fixes. 
+ 
