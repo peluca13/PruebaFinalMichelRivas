@@ -1,0 +1,4 @@
+Michel Rivas Latapie
+CI 42178510
+
+Cuando se genera cambio por parte de desarrollo, Se mergea la rama testing con los cambios de la rama desarrollo. Recordemos que la rama testing contine lo ultimo subido en produccion(Master). Se testean los nuevos cambios y una vez que pasan las pruebas, se realiza un merge desde testing a Master. Luego se produce el tag que dispara los pipelines de devops para poner en produccion la nueva funcionalidad. 
